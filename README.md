@@ -1,1 +1,1 @@
-# Data-Structure
+This assignment focuses on Data Types and Structures in Python. It covers the fundamental concepts such as strings, lists, tuples, sets, and dictionaries, along with their properties, operations, and use cases. The exercises include both theoretical questions (to understand concepts like mutability, hash tables, and data retrieval) and practical coding problems (to practice creating, modifying, and combining different data structures).
